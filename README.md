@@ -1,1 +1,1 @@
-# bussines-info
+# bussines-info БИС611-1 Самодуров Роман Сергеевич
