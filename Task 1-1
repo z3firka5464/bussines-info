@@ -1,0 +1,16 @@
+static void Main()
+{
+    Console.WriteLine("Решение задач");
+
+    //задание 1-1
+    double a1 = 2;
+    double b1 = 3;
+    double c1 = 4;
+    double x1 = 1;
+
+    double part_chislo1 = a1 * Math.Abs(Math.Pow(x1 , 3) - b1);
+    double part_dell = Math.Sqrt(Math.Pow(x1 , 2) + c1)
+    double part_trll =(3/4) * Math.Po(Math.Sin(x1)
+    double y1 = part_chislo1 / part_dell 
+
+        }
